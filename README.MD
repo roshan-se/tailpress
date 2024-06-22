@@ -91,8 +91,7 @@ You could also find the composer's global installation path by running `composer
 
 ## Contributors
 
-* [Jeffrey van Rossum](https://github.com/jeffreyvr)
-* [All contributors](https://github.com/jeffreyvr/tailpress/graphs/contributors)
+* [Roshan Adhikari](https://github.com/roshan-se)
 
 ## License
 
